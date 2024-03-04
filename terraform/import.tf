@@ -13,7 +13,7 @@ import {
     id = "https://quietzero.blob.core.windows.net/tfstate"
 }
 
-import {
-    to = azurerm_kubernetes_cluster.aks
-    id = "subscriptions/aa379ed2-15f9-449a-94bf-c88194b80ecc/resourceGroups/default/providers/Microsoft.ContainerService/managedClusters/aks"
-}
+# import {
+#     to = azurerm_kubernetes_cluster.aks
+#     id = "subscriptions/aa379ed2-15f9-449a-94bf-c88194b80ecc/resourceGroups/default/providers/Microsoft.ContainerService/managedClusters/aks"
+# }

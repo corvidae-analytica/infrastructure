@@ -1,7 +1,3 @@
-# __generated__ by Terraform
-# Please review these resources and move them into your main configuration files.
-
-# __generated__ by Terraform
 resource "azurerm_storage_account" "quietzero" {
   access_tier                       = "Hot"
   account_kind                      = "StorageV2"
